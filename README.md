@@ -11,10 +11,9 @@ The aim of the project was to build a model predicting wine rating based on its 
 * NLP analysis
 * LDA topic modelling
 * comparing three approaches to predictive modelling: 
-
-                                                     * Nominal Classification
-                                                     * Ordinal Classification
-                                                     * Regression
+    * Nominal Classification
+    * Ordinal Classification
+    * Regression
                                                      
 * Implementing NNRank - neural net for ordinal classification
 * Implementing custom keras metric to calculate ordinal accuracy
