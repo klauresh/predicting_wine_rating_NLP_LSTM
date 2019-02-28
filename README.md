@@ -1,8 +1,7 @@
-# DS_bootcamp_project
+# Predicting wine rating based on its description
+<br />
 *Final project to complete the data science bootcamp organized by Sages*
 <br />
-<br />
-The aim of the project was to build a model predicting wine rating based on its description.
 <br />
 <br />
 ### Highlights of the project:
