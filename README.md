@@ -1,7 +1,7 @@
 # Predicting wine rating based on its description
 <br />
+
 *Final project to complete the data science bootcamp organized by Sages*
-<br />
 <br />
 <br />
 
