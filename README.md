@@ -4,6 +4,7 @@
 <br />
 <br />
 <br />
+
 ### Highlights of the project:
 * NLP analysis
 * LDA topic modelling
