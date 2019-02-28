@@ -1,13 +1,11 @@
 # DS_bootcamp_project
-Final project to complete the data science bootcamp organized by Sages.
-
-
-
+*Final project to complete the data science bootcamp organized by Sages*
+<br />
+<br />
 The aim of the project was to build a model predicting wine rating based on its description.
-
-
-
-## Highlights of the project:
+<br />
+<br />
+### Highlights of the project:
 * NLP analysis
 * LDA topic modelling
 * comparing three approaches to predictive modelling: 
