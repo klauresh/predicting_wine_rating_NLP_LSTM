@@ -2,6 +2,7 @@
 <br />
 
 *Final project to complete the data science bootcamp organized by Sages*
+Full version of the project with LDA visualisation can be found [here](https://nbviewer.jupyter.org/github/klauresh/DS_bootcamp_project/blob/master/Project_final.ipynb#topic=0&lambda=1&term=)
 <br />
 <br />
 
